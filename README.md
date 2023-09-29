@@ -11,6 +11,7 @@ Desenvolver sistema para gerenciamento de produtos e fornecedores com autentica�
 - Autenticação via JWT.
 - Uso de MongoDB (MongoDB Compass) ou PostgreSQL (Supabase).
 - Uso obrigatório de Tailwind CSS.
+- Uso obrigatório de TypeScript.
 
 ## Stack Tecnológica
 - Frontend: NextJS (preferencialmente) ou NuxtJS.
