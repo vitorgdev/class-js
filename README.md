@@ -8,7 +8,9 @@ Desenvolver sistema para gerenciamento de produtos e fornecedores com autentica�
 - Acesso restrito a usuários autenticados.
 - Permissões de acesso específicas por usuário.
 - Telas de cadastro e edição de produtos e fornecedores.
-- Autenticação via JWT.
+- Autenticação via JWT e criptografia com bcrypt.
+- Utilizar a arquitetura MSC (Model, Service e Controller) + Routes na API.
+- Secret Keys e URI's não poderão estar públicas.
 - Uso de MongoDB (MongoDB Compass) ou PostgreSQL (Supabase).
 - Uso obrigatório de Tailwind CSS.
 - Uso obrigatório de TypeScript.
@@ -19,7 +21,7 @@ Desenvolver sistema para gerenciamento de produtos e fornecedores com autentica�
 - Backend: NestJS ou Express.
 
 ### Frontend
-Responsabilidades: Autenticação, Autorização e desenvolvimento das telas.
+Responsabilidades: Autenticação, Autorização, Rotas e desenvolvimento das telas.
 
 ### BFF
 Responsabilidades: Roteamento, comunicação com o Backend via REST, Autenticação e Autorização.
