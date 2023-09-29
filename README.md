@@ -1,5 +1,5 @@
 
-# Projeto para Iniciantes em Desenvolvimento de Software
+# Projeto para treinar conceitos lógicos/técnicos em Desenvolvimento de Software
 
 ## Objetivo
 Desenvolver sistema para gerenciamento de produtos e fornecedores com autenticação e autorização.
