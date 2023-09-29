@@ -4,6 +4,11 @@
 ## Objetivo
 Desenvolver sistema para gerenciamento de produtos e fornecedores com autenticação e autorização.
 
+## Adendos
+- O intuito desse projeto é evoluir as habilidades técnicas, soft e hard skills de cada Dev.
+- Está proibido o uso de ChatGPT ou qualquer IA para o desenvolvimento do projeto devido aos problemas que o uso exarcebado delas causam. Exemplos: Dependência Tecnológica, Falta de Compreensão Profunda, Falta de Criatividade e Inovação.
+- Haverá review para determinar a autenticidade do código.
+
 ## Regras de Negócio
 - Acesso restrito a usuários autenticados.
 - Permissões de acesso específicas por usuário.
