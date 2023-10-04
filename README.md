@@ -14,7 +14,6 @@ Desenvolver sistema para gerenciamento de produtos e fornecedores com autentica�
 - Permissões de acesso específicas por usuário.
 - Telas de cadastro e edição de produtos e fornecedores.
 - Autenticação via JWT, criptografia com bcrypt, Next-Auth pra quem for usar next é uma opção também.
-- Utilizar a arquitetura MSC (Model, Service e Controller) + Routes na API.
 - Secret Keys e URI's não poderão estar públicas.
 - Uso de MongoDB (MongoDB Compass) ou PostgreSQL (Supabase).
 - Uso obrigatório de Tailwind CSS.
